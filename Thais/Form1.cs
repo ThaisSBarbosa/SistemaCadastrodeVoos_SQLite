@@ -341,7 +341,7 @@ namespace Thais
             LimpaTela();
         }
 
-        //Habilita Salvar e Cancelar caso o usuário digite algo nas textboxes
+        //Habilita Salvar e Cancelar caso o usuário digite algo nas textbox
 
         void HabilitaSalvarCancelar()
         {
